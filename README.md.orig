@@ -1,5 +1,7 @@
-# React Typescript Solana Starter
-
+<<<<<<< HEAD
+# cra-typescript-solana-starter
+Starter kit for Create React App, thirdweb, Solana, and TypeScript
+=======
 ## Getting Started
 
 Create a project using this example:
@@ -29,3 +31,4 @@ You can check out [the thirdweb GitHub organization](https://github.com/thirdweb
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+>>>>>>> b565153 (feat: init)
