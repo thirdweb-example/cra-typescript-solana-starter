@@ -1,5 +1,3 @@
-# React Typescript Solana Starter
-
 ## Getting Started
 
 Create a project using this example:
@@ -12,7 +10,7 @@ You can start editing the page by modifying `src/index.tsx`. The page auto-updat
 
 On `src/index.tsx`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our hooks to work.
 
-on `src/App.tsx`, you'll find the `useMetamask` hook that we use to connect the user's wallet to MetaMask, `useDisconnect` that we use to disconnect it, and `useAddress` to check the user's wallet address once connected.
+on `src/App.tsx`, you'll find the `useProgram` hook to show you how to connect and start interacting with your Solana program.
 
 ## Learn More
 
@@ -20,7 +18,7 @@ To learn more about thirdweb, React and CRA, take a look at the following resour
 
 - [thirdweb React Documentation](https://portal.thirdweb.com/react) - learn about our React SDK.
 - [thirdweb Solana Documentation](https://portal.thirdweb.com/solana) - learn about our Solana SDK.
-- [thirdweb TypeScript Documentation](https://portal.thirdweb.com/sdk) - learn about our JavaScript/TypeScript SDK.
+- [thirdweb SDK Documentation](https://portal.thirdweb.com/sdk) - learn about our JavaScript/TypeScript SDK.
 - [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
 - [React documentation](https://reactjs.org/) - learn React.
 
@@ -28,4 +26,4 @@ You can check out [the thirdweb GitHub organization](https://github.com/thirdweb
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+For any questions or suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
