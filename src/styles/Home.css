@@ -17,8 +17,12 @@
   padding: 16px;
 }
 
-.icon {
-  max-height: 72px;
+.button-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .h1 {
