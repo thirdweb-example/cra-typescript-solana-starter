@@ -1,6 +1,6 @@
 {
-  "short_name": "react-typescript-starter",
-  "name": "thirdweb starter project with React & TypeScript",
+  "short_name": "react-typescript-solana-starter",
+  "name": "thirdweb solana starter project with React & TypeScript",
   "icons": [
     {
       "src": "favicon.ico",
